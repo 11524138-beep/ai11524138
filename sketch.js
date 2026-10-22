@@ -71,8 +71,6 @@ function setup() {
 
 }
 
-
-
 function draw() {
   background(0);
   // Draw the video
